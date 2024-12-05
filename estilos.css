@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+
+}
+
+.flex-container {
+    display: flex;
+}
+.PAU {
+border-color: beige;
+}
+
+.BC {
+border-color: blueviolet;
+}
+.R {
+border-color: yellowgreen;
+}
+
+.PA {
+border-color: brown;
+}
+
+.L{
+border-color: azure;
+}
+
+.B {
+border-color: gray;
+}

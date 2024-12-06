@@ -1,0 +1,129 @@
+body {
+    background-color: #e9f0f0;
+    font-size: 500%;
+    flex-wrap: wrap;
+    
+   
+  
+
+}
+h1 {
+    font-size: larger;
+    display: flex;
+   
+    
+
+}
+
+.flex-container {
+    display: flex;
+    padding: 30px;
+    background-color: blue;
+    border: 1px solid #ccc;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    align-content: space-between32+;
+}
+
+.PAU {
+background-color: beige;
+font-family: 'Times New Roman', Times, serif;
+width: 500px;
+height: 500px;
+text-align: center;
+margin-bottom: 30px;
+font-size: 50px;
+
+}
+
+.PAU img {
+    width: 100%;
+}
+
+
+.BC {
+background-color: blueviolet;
+font-family: 'Times New Roman', Times, serif;
+width: 500px;
+height: 500px;
+text-align: center;
+margin-bottom: 30px;
+font-size: 50px;
+
+}
+
+.BC img{
+    width: 500px;
+}
+
+
+.R {
+background-color: yellowgreen;
+font-family: 'Times New Roman', Times, serif;
+width: 500px;
+height: 500px;
+text-align: center;
+margin-bottom: 30px;
+font-size: 50px;
+
+}
+
+.R img{
+    width: 350px;
+}
+
+.PA {
+background-color: brown;
+font-family: 'Times New Roman', Times, serif;
+width: 500px;
+height: 500px;
+text-align: center;
+margin-bottom: 30px;
+font-size: 50px;
+
+}
+
+.PA img {
+    width: 500px;
+}
+
+
+.L{
+background-color: azure;
+font-family: 'Times New Roman', Times, serif;
+width: 500px;
+height: 500px;
+text-align: center;
+margin-bottom: 30px;
+font-size: 50px;
+
+}
+
+.L img {
+    width: 330px;
+}
+
+
+.B {
+background-color: rgb(202, 49, 49);
+font-family: 'Times New Roman', Times, serif;
+width: 500px;
+height: 500px;
+text-align: center;
+margin-bottom: 30px;
+font-size: 50px;
+
+}
+
+p {
+margin-bottom: 30px;
+}
+
+.B img {
+    width: 500px;
+    
+}

@@ -171,7 +171,18 @@ margin-bottom: 30px;
     height: 50px
     
 }
+#textoamor {
+    font-family:Georgia, 'Times New Roman', Times, serif
+    align-items: center;
+    text-align: center;
+    background-color: rgb(24, 110, 173);
+    
 
+
+
+
+
+}
 @media (max-width: 600px) {
 
     body {
@@ -259,3 +270,4 @@ margin-bottom: 30px;
     }
   
   }
+ 
